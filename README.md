@@ -37,7 +37,7 @@ The project contains the following files:
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/YourUserName/ElevatorSystemSimulator.git
+   git clone https://github.com/nkamali/elevator
 
 ## Usage
 
