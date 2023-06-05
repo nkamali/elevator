@@ -1,0 +1,31 @@
+# .gitignore
+
+# Python build / distribution
+*.py[cod]
+__pycache__
+*.pyd
+*.pyo
+*.egg
+*.egg-info/
+dist/
+build/
+*.so
+
+# Python Environments
+.env
+.venv/
+env/
+venv/
+ENV/
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*.swn
+*.bak
+
+# OS files
+.DS_Store
+Thumbs.db
