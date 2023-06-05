@@ -4,7 +4,7 @@ from elevator_system import ElevatorSystem, Direction
 
 
 if __name__ == "__main__":
-    elevator_system = ElevatorSystem(1)
+    elevator_system = ElevatorSystem(2)
 
     def user_input():
         while True:
